@@ -29,7 +29,7 @@ I am a motivated, ambitious, and hardworking student in computer programming. I 
 
 ## :watch: Hobbies
 
-<img src="https://www.flaticon.com/svg/vstatic/svg/3159/3159543.svg?token=exp=1618679717~hmac=d19be926c7c7564a3a52ff466e495fc4" width=48px> &ensp; <img src="https://www.flaticon.com/svg/vstatic/svg/2436/2436636.svg?token=exp=1618680146~hmac=ef516d985dfac693cd152ca92af505f8" width=48px>
+<img src="./read.svg" width=48px> &ensp; <img src="./television.svg" width=48px>
 
 ***
 
